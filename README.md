@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Cc1
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.2.2.
@@ -61,3 +62,6 @@ For more information on using the Angular CLI, including detailed command refere
 =======
 # CC2-dev_web
 >>>>>>> 032dae157a7523d033b4663f6243213b65b02ef2
+=======
+
+>>>>>>> 911803d7f4c0f2f81cc2e2761cb16233563b8f79
